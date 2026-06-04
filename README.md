@@ -186,4 +186,4 @@ LinkedIn: https://www.linkedin.com/in/joaquin-carbonaro
 
 ## 🧾 Uso
 
-Este proyecto se comparte con fines educativos y de portfolio. Puede utilizarse como referencia para proyectos académicos relacionados con Java, Programación Orientada a Objetos y manejo de archivos.
+Este proyecto se comparte con fines educativos y de portfolio. Puede utilizarse como referencia para proyectos académicos relacionados con Java, Programación Orientada a Objetos, herencia, polimorfismo, abstracción, manejo de archivos, serialización, excepciones personalizadas, colecciones, exportación a CSV/JSON y JavaFX.
